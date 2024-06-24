@@ -29,4 +29,8 @@ https://www.newimedia.com/en/taboola-new-imedia-seminar-20240712/
 21 June 2024
 Nav - submenu not showing, z-index issue
 
+24 June 2024
+Nav - revised z-index value to 99998 (99999 would block WordPress Admin panel)
+Footer - removed Twitter icon
+
 
