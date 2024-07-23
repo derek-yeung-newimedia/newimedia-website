@@ -144,11 +144,6 @@ Adjusted spacing/alighment for tagline [Your Growth, Our Glow. Your Trusted Part
 Adjusted spacing for column [We provide Integrated Solutions] (Tablet view)
 Adjusted spacing for [Partner] (Tablet view)
 
-EN Footer rework for Desktop/Tablet/Mobile
-EN Heading menu change [E-Business] to [E-Commerce] for better page relevance
-EN Heading menu [WeChat Mini Program] set Open in New Tab for better UX
-EN Heading menu [Google Search Ads Health Check Service] renamed to [Google Ads Health Check] for better UX
-
 https://www.newimedia.com/en/google-search-ads-health-check/
 https://www.newimedia.com/zh-hant/google-search-ads-health-check/
 https://www.newimedia.com/en/quote/
@@ -163,5 +158,20 @@ Updated CTA button style to match TC
 https://www.newimedia.com/zh-hant/free-seo-report/
 Updated Theme to match EN version
 
+----- EN Website Core -----
+EN Footer rework for Desktop/Tablet/Mobile
+EN Heading menu change [E-Business] to [E-Commerce] for better page relevance
+EN Heading menu [WeChat Mini Program] set Open in New Tab for better UX
+EN Heading menu [Google Search Ads Health Check Service] renamed to [Google Ads Health Check] for better UX
+swapped [Solutions] and [China Solutions]
+EN Footer organized items, and updated URLs
+EN Footer - for pages that do not have EN copy, linked them to [Contact Us] page instead
+-----
+
 Updated website plugins - Backup (20240723 1517)
 
+----- TC Website Core -----
+TC Footer rework for Desktop/Tablet/Mobile
+TC Footer organized items, and updated URLs
+TC Footer - for pages that do not have TC copy, linked them to [Contact Us] page instead
+-----
